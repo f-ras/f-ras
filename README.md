@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ferry Ras
+# 👋 Hi, I'm Ferry
 
 I'm a software developer, entrepreneur, and Codam College student who thrives on solving complex challenges with innovative solutions. Whether I'm building robust software applications or launching a startup, I love transforming creative ideas into practical, high-impact results.
 
