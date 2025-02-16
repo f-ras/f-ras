@@ -4,7 +4,7 @@ I'm a software developer, entrepreneur, and Codam College student who thrives on
 
 ## 🔭 Notable Projects
 
-- **[42Course](https://github.com/f-ras/42Course)**: A collection of projects from the 42 curriculum designed to sharpen skills in algorithmic problem-solving and system programming.
+- **[42Course](https://github.com/f-ras-42Course)**: A collection of projects from the 42 curriculum designed to sharpen skills in algorithmic problem-solving and system programming.
 
 - **[TomTom-Hackathon-2022](https://github.com/f-ras/TomTom-Hackathon-2022)**: An award-winning application that integrates calendar events with TomTom maps to enhance how users interact with navigation.
 
