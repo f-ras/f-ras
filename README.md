@@ -12,6 +12,10 @@ I'm a software developer, entrepreneur, and Codam College student who thrives on
 
 I'm currently developing a startup that reimagines how to-do apps work, empowering users to live more fulfilling and intentional lives. This project allows me to combine my technical background with business strategy in a hands-on way. If you're interested in collaborating, exchanging ideas, or exploring potential partnerships, let’s connect!
 
+## ⚡ Fun Fact
+
+When I'm not busy chasing down pesky bugs in my code, you can bet I'm at the gym - pumping iron like I'm debugging my life in real time. I fuel up with quick, efficient healthy eats (no gourmet chef antics here), ensuring I have all the energy needed to tackle the next big challenge.
+
 ## 🌱 Currently Learning
 
 I'm delving deeper into:
@@ -23,10 +27,6 @@ I'm delving deeper into:
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/ferryras](https://www.linkedin.com/in/ferryras/)
-
-## ⚡ Fun Fact
-
-When I'm not busy chasing down pesky bugs in my code, you can bet I'm at the gym - pumping iron like I'm debugging my life in real time. I fuel up with quick, efficient healthy eats (no gourmet chef antics here), ensuring I have all the energy needed to tackle the next big challenge.
 
 ---
 
